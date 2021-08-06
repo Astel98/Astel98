@@ -1,6 +1,7 @@
 ### Hi there 👋
+<link rel="stylesheet" href="styles.css"> 
 
-<h1 style="padding-right: auto; padding-left: auto"> I'm Hugo Jhojan Lora Saravia </h1>
+<h1 class="name"> I'm Hugo Jhojan Lora Saravia </h1>
 
 - 🌱 I’m currently learning anithyng related to JS
 - 📫 How to reach me: hugolora2014@gmail.com
