@@ -1,0 +1,26 @@
+@keyframes name {
+  0% {
+    color: red; 
+    text-shadow: 2px 2px 5px red; 
+    bottom: 0px;
+  }
+  50% {
+    color: blue; 
+    text-shadow: 5px 5px 10px blue; 
+    bottom: 100px;
+  }
+  100% {
+    color: #7800ff; 
+    text-shadow: 5px 5px 10px #7800ff; 
+    bottom: 0px;
+  }
+}
+
+.name {
+  animation-duration: 3s;
+  animation-name: name;
+  color: #7800ff; 
+  position: relative;
+  text-align: center; 
+  text-shadow: 2px 2px 5px #7800ff; 
+}
