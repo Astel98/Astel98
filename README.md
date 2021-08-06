@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h1 style="padding-right: auto; padding-left: auto"> I'm Hugo Jhojan Lora Saravia </h1>
+
+- 🌱 I’m currently learning anithyng related to JS
+- 📫 How to reach me: hugolora2014@gmail.com
+- 😄 Pronouns: Astel, Kieran, Hugo
+- ⚡ Fun fact: I love roguelikes such as The binding of Isaac: Repentance and Hades: Battle out of hell
+
 <!--
 **Astel98/Astel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
