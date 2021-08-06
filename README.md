@@ -1,5 +1,5 @@
 ### Hi there 👋
-<link rel="stylesheet" href="styles.css"> 
+<link rel="stylesheet" href="./styles.css"> 
 
 <h1 class="name"> I'm Hugo Jhojan Lora Saravia </h1>
 
