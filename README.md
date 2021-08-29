@@ -2,7 +2,7 @@
 
 <h1 align="center" text-color="#7800ff"> I'm Hugo Jhojan Lora Saravia </h1>
 
-- 🌱 I’m currently learning anithyng related to JS
+- 🌱 I'm currently learning some things related to JS
 - 📫 How to reach me: hugolora2014@gmail.com
 - 😄 Pronouns: Astel, Kieran, Hugo
 - ⚡ Fun fact: I love roguelikes such as The binding of Isaac: Repentance and Hades: Battle out of hell
