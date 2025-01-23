@@ -4,7 +4,6 @@
 
 - 🌱 I'm currently learning some things related to JS
 - 📫 How to reach me: hugolora2014@gmail.com
-- 😄 Pronouns: Astel, Kieran, Hugo
 - ⚡ Fun fact: I love roguelikes such as The binding of Isaac: Repentance and Hades: Battle out of hell
 
 
